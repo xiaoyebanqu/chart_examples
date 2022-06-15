@@ -1,2 +1,2 @@
 # chart_examples
-some complex chart examples that traditional background detector fails to detect
+Here shows some complex charts that traditional background detector fails to detect.
